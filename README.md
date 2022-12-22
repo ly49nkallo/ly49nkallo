@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ly49nkallo
-- 👀 I’m interested in Physics Based Machine Learning
+- 👀 I’m interested in Reinforcement Learning, Quantum Computing
 - 📫 How to reach me ...
 - Email: tyabrennan@gmail.com
 
