@@ -2,6 +2,7 @@
 - 👀 I’m interested in Reinforcement Learning, Quantum Computing, Math, Graph Theory, Neuroscience, Particle Physics &c. 
 - 📫 How to reach me ...
 - Email: tyabrennan@gmail.com
+- Youtube: http://www.youtube.com/@ly49nkallo
 - [Link to Homepage](https://tyshomepage.wordpress.com)
   
 ![image](https://www.cond-mat.de/teaching/DFT/harmon.gif)
